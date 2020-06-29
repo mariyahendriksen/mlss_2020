@@ -1,0 +1,59 @@
+by Bernhard Schölkopf
+
+L.S. Lowry Paiting
+
+What I cannot create, I do not understand.
+
+Cybernetics - 1940s/50s
+https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine
+
+Macy conference
+
+Perceptron Converegence Theorem
+
+# Symbolic AI
+
+Intelligence is a process of manipulating descrete symbols (McCarthy, Newell, Simon, Minsky)
+
+## Perceptrons
+https://en.wikipedia.org/wiki/Perceptrons_(book)
+
+Perceptrons could not solve parity problem, what was seen as limitation.
+https://en.wikipedia.org/wiki/Parity_problem
+
+## The end of perceptrons
+
+Symbolic AI gave birth to CS.
+
+https://en.wikipedia.org/wiki/Moravec%27s_paradox#:~:text=Moravec's%20paradox%20is%20the%20observation,humans)%20require%20enormous%20computational%20resources.
+
+
+## The return of neural nets
+
+Back-prop, mid-1980s (application of the chain rule)
+
+## Machine Learning
+https://en.wikipedia.org/wiki/Probably_approximately_correct_learning
+
+
+Classic AI - rules shaped by humans.
+
+## Causal AI
+
+ML uses correlations rather than causalities.
+
+
+https://arxiv.org/abs/1312.6199
+
+Storks deliver babies (p=0.008)
+
+Common cause principle.
+https://plato.stanford.edu/entries/physics-Rpcc/
+
+
+Cargo cult (https://en.wikipedia.org/wiki/Cargo_cult)
+
+Recent Revolutions:
+1. Industry revolution
+
+2. Digital revolution (big data)
