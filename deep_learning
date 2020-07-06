@@ -1,0 +1,13 @@
+Compositionality is very imoprtant.
+
+Distributed partition: learn semantically-meaninful features independent of other features.
+
+Deep learning: learning an internal representation. Good representation help solve other tasks.
+
+How to disentangle representation into meaningful concepts?
+
+## Backprop
+
+## Debugging
+Train on a small dataset: verify you can reach 0 training error
+
