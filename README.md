@@ -1,6 +1,7 @@
 # Machine Learning
 
 * [Super Duper NLP repo: collection of NLP notebooks](https://notebooks.quantumstat.com/)
+* [ML reading list by Mentocruise](https://mentorcruise.com/books/ml/)
 
 Core books:
 
